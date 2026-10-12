@@ -1,0 +1,17 @@
+# Photoshop sources are intentionally excluded, including uppercase extensions.
+*.[pP][sS][dD]
+*.[pP][sS][bB]
+node_modules/
+dist/
+.asset-venv/
+.venv/
+__pycache__/
+*.pyc
+test-artifacts/
+.openai/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.zip
+*.tar.gz

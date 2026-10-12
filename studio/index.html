@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="冬藏季固定模板批量套图。在电脑浏览器本地处理图片和视频。" />
+  <title>冬藏季 · 素材工作台</title>
+</head>
+<body>
+  <header class="header">
+    <a class="brand" href="./"><span class="brand-mark">冬</span><span>冬藏季<span class="brand-sub">素材工作台</span></span></a>
+    <div class="header-right"><span class="local-dot"></span><span>素材仅在本机处理</span><button class="text-btn" id="helpBtn">使用说明</button></div>
+  </header>
+  <main>
+    <section class="usage-guide panel" id="userGuide" aria-labelledby="guideTitle">
+      <div class="guide-heading"><div><span class="eyebrow">开始之前 / 使用说明</span><h2 id="guideTitle">从一批原素材，到一批成品，按这 6 步操作。</h2><p>适合商品图片、活动图片和短视频。模板设计保持固定，你只需选择素材、填写文案并检查效果。</p></div><a class="guide-start" href="#workbench">我已了解，开始制作 ↓</a></div>
+      <div class="guide-preflight"><strong>推荐用电脑 Chrome / Edge 打开。</strong> 素材在你的浏览器本地处理，不上传服务器。首次使用可先点击“试用示例图片”；视频建议先用 3 分钟以内、1080p 的短片试跑。</div>
+      <details class="guide-details" open>
+        <summary>详细操作说明 <span>点击收起 / 展开</span></summary>
+        <ol class="guide-steps">
+          <li><span class="guide-number">01</span><h3>添加你的图片或视频</h3><p>在“素材队列”点击<strong>“＋ 添加素材”</strong>，一次选择多个文件，或把文件拖进队列区域。图片、视频可以混在同一批里。</p><p>图片可用 JPG、PNG、WebP 等；视频可先用 MP4。其他格式能否读取和导出，取决于浏览器。放入商品、人物分层模板时，建议准备已抠好的透明 PNG。</p><a href="#dropZone">前往素材队列 →</a></li>
+          <li><span class="guide-number">02</span><h3>按比例自动匹配，或自己选模板</h3><p><strong>“按素材比例自动选模板”默认开启</strong>。导入后，系统按横版、竖版、方形及模板摆放区域，为每个文件选模板，并优先完整显示素材。队列会显示各自匹配的模板名。</p><p>想限定款式，先选“自动匹配范围”；已有素材需点击“重新匹配未手动指定的素材”。“素材分类”和搜索只筛选左侧展示，不改变匹配范围。</p><p>点击队列中的某个文件，再点左侧模板，只修改这个文件。想统一整批，点“当前模板应用到全部”。手动指定后不会被重新匹配覆盖；想取消指定，点“当前素材恢复自动匹配”。关闭自动匹配只影响之后添加的素材。</p><p>比例匹配不判断商品类别或人物内容，请检查是否选对款式。“原图下载”类只供下载，不用于套图；自备模板可通过“导入透明 PNG 模板”添加。</p></li>
+          <li><span class="guide-number">03</span><h3>逐个调整画面</h3><p>点击队列文件，在“预览与调整”查看效果。<strong>“完整显示”保留整张素材，可能留白；“铺满画面”填满区域，边缘可能被裁切或遮挡。</strong></p><p>拖动预览画面，或调节缩放、水平／垂直偏移，把商品或人物放到合适位置。留白底色可修改；“重置位置”恢复默认适配、缩放、偏移和底色。分层模板的空余区域可能显示原稿背景。</p><p>设置区的“应用到全部素材”会复制适配、缩放、位置和底色，<strong>不会复制模板或文案</strong>。不同画幅复制后要重新检查。视频可点击“播放预览”，也可拖动进度条查看指定位置。</p></li>
+          <li><span class="guide-number">04</span><h3>填写商品名、活动信息</h3><p>在“模板文案”中编辑当前文件的可替换文字。<strong>字体、字号、样式和位置保持原稿设置</strong>。留空会隐藏这段文字；文案太长或字体缺少字符时会提示，请缩短或换字，不会自动缩小字号。</p><p>一批使用相同文案：填好后点“文案应用到同模板素材”。每个文件用不同文案：点“下载当前模板文案 CSV”，用表格软件按文件名逐行填写，再保存为 <strong>CSV UTF-8</strong> 并点击“导入批量文案 CSV”。</p><p>CSV 只包含使用当前模板的素材；混合模板需要分别下载、填写、导入。请保留表头和完整文件名（含扩展名），同批文件名不要重复。留空表示隐藏，不是保留原文。没有独立文字层的模板无法改字，固定 Logo 和图稿不变。</p><a href="#copyPanel">前往模板文案 →</a></li>
+          <li><span class="guide-number">05</span><h3>看 Review，确认合成效果</h3><p>导入后会自动生成“批量 Review · 合成检查”。这里能看到每个文件的合成缩略图，以及裁切／留白、放大清晰度和文案问题。<strong>修改模板、位置或文案后，点击“更新 Review”</strong>；旧预览与确认记录会重置。</p><p>点击缩略图或“调整／播放”回到对应素材检查。视频会抽取时长的 10%、50%、90% 三帧；点击某一帧可跳转到该时刻，仍建议播放全片检查。</p><p>检查满意后点“确认画面”；“确认无提示项”可批量记录确认。“只看待检查／有提示”方便集中排查。确认是检查记录，不是导出开关；文案错误需要先修正。系统不会自动判断商品或人脸是否被固定装饰挡住，这部分请人工查看。</p><a href="#batchReview">前往批量 Review →</a></li>
+          <li><span class="guide-number">06</span><h3>批量生成，保存到电脑</h3><p>选择图片输出格式：<strong>PNG 清晰无损，JPG 文件更小</strong>。视频输出 MP4，最高 30 帧／秒，按需勾选“保留视频原声”。成品尺寸跟随每个文件所用的模板。</p><p>推荐先点“选择保存文件夹”并授予保存权限，再点<strong>“批量生成”</strong>。文件按队列逐个处理，同名成品自动编号。没有选择文件夹，或浏览器不支持时，生成后在队列中逐个点“下载”。</p><p>处理中请保持页面打开。单个失败不会中断其他文件，可按旁边提示修正后重新生成；已完成且未修改的文件会跳过。“停止处理”可中止本批，之后继续生成剩余任务。</p><p><strong>关闭或刷新页面会清空本次队列和设置。</strong> 请先把成品保存到电脑；未下载的浏览器临时成品不作为长期存储。</p></li>
+        </ol>
+        <div class="guide-example"><strong>第一次试用这样做：</strong>点击“试用示例图片” → 查看三种比例的自动匹配 → 在 Review 检查效果 → 点击“批量生成” → 下载一张成品确认。熟悉流程后，再添加客户素材。</div>
+      </details>
+    </section>
+
+    <section class="intro"><div><div class="eyebrow">WINTER COLLECTION / 11.11</div><h1>好素材，一键套上好设计。</h1><p>选好模板，放入你的图片或视频。批量生成，保存到本机。</p></div><span class="edition">客户试用版 <span>02</span></span></section>
+    <div class="workspace" id="workbench">
+      <aside class="panel template-panel">
+        <div class="panel-heading"><h2><span class="step">01</span>固定素材库</h2><span id="templateCount">加载中</span></div>
+        <div class="catalog-controls"><label for="categorySelect">素材分类</label><select id="categorySelect"><option value="all">全部素材</option></select><input id="templateSearch" type="search" placeholder="搜索商品、达人、贴纸…" aria-label="搜索固定模板" /></div>
+        <div class="match-controls"><label class="inline-field"><span>按素材比例自动选模板</span><input id="autoMatch" type="checkbox" checked /></label><label for="matchScope">自动匹配范围</label><select id="matchScope"><option value="all">全部适用模板</option></select><p class="small-note">新素材自动匹配并完整显示。点选模板仅修改当前素材；已手动指定的模板不会被重新匹配覆盖。</p><button id="rematchBtn" class="secondary">重新匹配未手动指定的素材</button><button id="templateAllBtn" class="text-btn">当前模板应用到全部</button></div><div id="templates"></div>
+        <label class="custom-template"><span>＋ 导入透明 PNG 模板</span><input type="file" id="templateInput" accept="image/png" hidden /></label>
+        <p class="small-note" id="templateNote">固定设计来自原始 PSD / PNG。选择款式查看使用方式。</p>
+        <button id="downloadOriginal" class="secondary original-download">下载当前原稿</button>
+        <div class="local-note"><span class="local-icon">⌂</span><div><strong>在你的电脑上完成</strong><p>无需上传素材，也无需安装软件。导出时请保持页面打开。</p></div></div>
+      </aside>
+      <section class="panel preview-panel">
+        <div class="panel-heading"><h2><span class="step">02</span>预览与调整</h2><span id="canvasSize">800 × 800</span></div>
+        <div class="preview-stage" id="previewStage"><div class="canvas-wrap"><canvas id="preview" width="800" height="800" aria-label="合成预览"></canvas></div><div class="empty-hint" id="emptyHint"><span class="upload-symbol">↥</span><strong>把你的素材放进来</strong><span>图片和视频都可以，一次选择多个</span><button id="emptyImport" class="primary">选择素材</button></div></div>
+        <div class="preview-footer"><span id="previewLabel">原版透明模板 · 等待素材</span><button id="playBtn" class="small-btn" hidden>播放预览</button><input id="videoSeek" type="range" min="0" max="100" step="0.1" value="0" aria-label="视频预览进度" hidden /><span class="preview-tip">拖动画面调整位置</span></div>
+      </section>
+      <aside class="panel settings-panel">
+        <div class="panel-heading"><h2><span class="step">03</span>导出设置</h2></div>
+        <button id="autoCurrentBtn" class="text-btn">当前素材恢复自动匹配</button><fieldset id="settingsFields">
+          <label class="field-label">素材适配</label><div class="segmented"><button id="coverBtn" class="selected" type="button">铺满画面</button><button id="containBtn" type="button">完整显示</button></div>
+          <div class="range-heading"><label for="zoom">素材缩放</label><output id="zoomValue">100%</output></div><input id="zoom" type="range" min="50" max="250" step="1" value="100" />
+          <div class="position-inputs"><label>水平偏移<input id="offsetX" type="number" min="-100" max="100" value="0" /><span>%</span></label><label>垂直偏移<input id="offsetY" type="number" min="-100" max="100" value="0" /><span>%</span></label></div>
+          <div class="inline-field"><label for="background">留白底色</label><input id="background" type="color" value="#ffffff" /></div>
+          <div class="adjust-actions"><button id="resetBtn" class="text-btn">重置位置</button><button id="applyAllBtn" class="text-btn">应用到全部素材</button></div>
+          <hr />
+          <label class="field-label" for="imageFormat">图片格式</label><select id="imageFormat"><option value="png">PNG · 清晰无损</option><option value="jpeg">JPG · 文件更小</option></select>
+          <div class="inline-field audio-option"><label for="keepAudio">保留视频原声</label><input id="keepAudio" type="checkbox" checked /></div>
+          <p class="small-note" id="modeNote">视频导出 MP4，最高 30 帧/秒。画面尺寸跟随模板。</p>
+        </fieldset>
+        <div class="export-area"><button id="folderBtn" class="secondary">选择保存文件夹</button><p id="folderLabel" class="small-note">未选择时，完成后逐个下载</p><button id="exportBtn" class="primary export-btn" disabled>批量生成 <span id="exportCount">0</span></button><button id="cancelBtn" class="secondary" hidden>停止处理</button></div>
+      </aside>
+    </div>
+    <section class="panel copy-panel" id="copyPanel">
+      <div class="queue-heading"><div><h2>模板文案 <span class="locked-style">原字体 · 原样式 · 原位置</span></h2><p id="copyScope">选择模板后填写商品名、活动信息</p></div><button id="resetCopy" class="text-btn">恢复原稿文案</button></div>
+      <fieldset id="copyFields"><div id="copyInputs"></div></fieldset>
+      <div id="copyErrors" role="status" aria-live="polite"></div>
+      <div class="copy-actions"><button id="applyCopyAll" class="secondary">文案应用到同模板素材</button><button id="downloadCsv" class="secondary">下载当前模板文案 CSV</button><button id="importCsv" class="secondary">导入批量文案 CSV</button><input id="csvInput" type="file" accept=".csv,text/csv" hidden /></div>
+      <p class="small-note" id="copyHelp">点击队列可逐个填写；CSV 仅包含使用当前模板的素材，按文件名匹配。留空会隐藏该段文字；超长文案会提示，不自动改字号。</p>
+    </section>
+    <section class="panel queue-panel" id="dropZone">
+      <div class="queue-heading"><div><h2>素材队列 <span id="queueCount">0</span></h2><p id="queueSummary">支持多选或拖入图片 / 视频，按顺序逐个处理</p></div><div class="queue-actions"><button id="clearBtn" class="text-btn" disabled>清空</button><button id="demoBtn" class="secondary">试用示例图片</button><button id="importBtn" class="primary">＋ 添加素材</button></div></div>
+      <input type="file" id="mediaInput" accept="image/*,video/*,.mov,.mkv,.webm" multiple hidden />
+      <div class="queue-empty" id="queueEmpty"><span>↥</span><p>将文件拖到这里，开始批量套图</p><small>JPG / PNG / WebP / MP4 / MOV 等，视频支持情况取决于当前浏览器</small></div>
+      <div id="queueList"></div>
+      <div class="batch-progress" id="batchProgress" hidden><div><span id="batchText">准备处理</span><span id="batchPercent">0%</span></div><progress id="overallProgress" value="0" max="100"></progress></div>
+    </section>
+    <section class="panel review-panel" id="batchReview"><div class="queue-heading"><div><h2>批量 Review · 合成检查</h2><p id="reviewSummary">添加素材后自动生成预览</p></div><div class="queue-actions"><label><input id="issuesOnly" type="checkbox" /> 只看待检查／有提示</label><button id="reviewBtn" class="primary">更新 Review</button><button id="approveAllBtn" class="secondary">确认无提示项</button></div></div><p class="small-note">模板图稿不拉伸，按固定画幅输出。检查比例、裁切／留白、分辨率与文案；不自动识别主体遮挡。修改后需更新 Review，确认记录会重置。人工确认用于检查记录，不限制导出。</p><div id="reviewList"></div></section>
+    <footer class="footer"><span>固定设计 · 本地合成 · 批量导出</span><span id="capability">正在检查浏览器能力…</span></footer>
+  </main>
+  <div id="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="helpDialog"><div class="dialog-header"><h2>把一批素材，变成一套成品</h2><button id="closeHelp" class="text-btn">关闭</button></div><ol><li>选择内置模板，或导入带透明区域的 PNG。</li><li>添加多个图片或视频。点击队列中的素材，单独调整位置、缩放。</li><li>选择保存文件夹，再点击“批量生成”。文件按顺序处理并保存；无需向服务器上传。</li></ol><p>可编辑文案保持原字体和字号。可逐个填写、应用到全部，或下载 CSV 后按文件名填写再导入。超出原文字区域或原字体不支持的字符会提示，相关素材不会导出。</p><p>本工具部分模板使用 HONOR Sans（Copyright 2022 Honor Device Co., Ltd.），<a href="./fonts/HONOR-Sans-LICENSE.txt" target="_blank">字体许可</a>；思源字体许可随部署包提供。</p><p>建议在电脑端最新版 Chrome / Edge 使用。视频建议先从 3 分钟以内、1080p 的素材试用。格式不支持时会给出提示，不会静默丢弃原声。</p><p>没有文件夹权限时，成品暂存在浏览器中，生成后请逐个下载。刷新或关闭页面会清空本次队列。模板可见的白色区域不会被自动抠除。</p></dialog>
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>
