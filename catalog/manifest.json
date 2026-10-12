@@ -1,0 +1,6314 @@
+[
+  {
+    "id": "t01",
+    "name": "冬藏季 Logo · 组合版",
+    "category": "Logo",
+    "mode": "badge",
+    "width": 2255,
+    "height": 1652,
+    "url": "catalog/t01.png",
+    "thumb": "catalog/t01-thumb.png",
+    "source": "logo/冬藏季—食品专属.png",
+    "canvasWidth": 1280,
+    "canvasHeight": 720,
+    "overlayWidth": 0.3,
+    "overlayX": 0.035,
+    "overlayY": 0.035
+  },
+  {
+    "id": "t02",
+    "name": "冬藏季 Logo · 横版",
+    "category": "Logo",
+    "mode": "badge",
+    "width": 4250,
+    "height": 1034,
+    "url": "catalog/t02.png",
+    "thumb": "catalog/t02-thumb.png",
+    "source": "logo/冬藏季—食品专属 横版.png",
+    "canvasWidth": 1280,
+    "canvasHeight": 720,
+    "overlayWidth": 0.3,
+    "overlayX": 0.035,
+    "overlayY": 0.035
+  },
+  {
+    "id": "t03",
+    "name": "直播贴纸 1",
+    "category": "直播贴纸",
+    "mode": "badge",
+    "width": 1320,
+    "height": 1320,
+    "url": "catalog/t03.png",
+    "thumb": "catalog/t03-thumb.png",
+    "source": "直播间贴片/sticker 1.png",
+    "canvasWidth": 720,
+    "canvasHeight": 1280,
+    "overlayWidth": 0.38,
+    "overlayX": 0.6,
+    "overlayY": 0.5,
+    "texts": [
+      {
+        "id": "text1",
+        "label": "优惠金额",
+        "original": "100",
+        "font": "SourceHanSerifCN-Heavy",
+        "fontSize": 149.90009,
+        "transform": [
+          1.1007331577162496,
+          0.0,
+          0.0,
+          1.1007331577162496,
+          347.15668984874225,
+          989.7491909668183
+        ],
+        "box": [
+          361,
+          869,
+          280,
+          124
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 179.880108,
+        "tracking": 0.0,
+        "fill": "rgba(225,17,21,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t03-text1.png",
+        "rasterBox": [
+          361,
+          869,
+          641,
+          993
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "使用条件",
+        "original": "满XXX元使用",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 40.1829,
+        "transform": [
+          1.244310384582221,
+          0.0,
+          0.0,
+          1.2443103845822214,
+          692.50522395446,
+          915.0730842623634
+        ],
+        "box": [
+          695,
+          872,
+          286,
+          48
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 48.21948,
+        "tracking": 0.6027434999999999,
+        "fill": "rgba(130,102,96,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t03-text2.png",
+        "rasterBox": [
+          695,
+          872,
+          981,
+          920
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "适用商品",
+        "original": "限XXXXXX商品",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 40.1829,
+        "transform": [
+          1.244310384582221,
+          0.0,
+          0.0,
+          1.2443103845822214,
+          692.50522395446,
+          985.0566652721168
+        ],
+        "box": [
+          697,
+          943,
+          327,
+          46
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 48.21948,
+        "tracking": 0.6027434999999999,
+        "fill": "rgba(130,102,96,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t03-text3.png",
+        "rasterBox": [
+          697,
+          943,
+          1024,
+          989
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "按钮文案",
+        "original": "立即领取",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 101.19408,
+        "transform": [
+          0.7510320829381414,
+          0.0,
+          0.0,
+          0.7510320829381415,
+          658.7791342512377,
+          1159.2902177629303
+        ],
+        "box": [
+          509,
+          1094,
+          304,
+          72
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 121.432896,
+        "tracking": 2.529852,
+        "fill": "rgba(252,245,242,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t03-text4.png",
+        "rasterBox": [
+          509,
+          1094,
+          813,
+          1166
+        ]
+      }
+    ],
+    "textClean": "catalog/t03-textclean.png"
+  },
+  {
+    "id": "t04",
+    "name": "直播贴纸 2",
+    "category": "直播贴纸",
+    "mode": "badge",
+    "width": 1320,
+    "height": 1320,
+    "url": "catalog/t04.png",
+    "thumb": "catalog/t04-thumb.png",
+    "source": "直播间贴片/sticker 2.png",
+    "canvasWidth": 720,
+    "canvasHeight": 1280,
+    "overlayWidth": 0.38,
+    "overlayX": 0.6,
+    "overlayY": 0.5,
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "限时优惠 丰收好礼",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 26.67739,
+        "transform": [
+          1.7992761430939792,
+          1.2942644636160045e-15,
+          0.0,
+          1.7992762090910404,
+          663.8585463489035,
+          338.34239528435455
+        ],
+        "box": [
+          471,
+          297,
+          389,
+          46
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 32.012868,
+        "tracking": 0.0,
+        "fill": "rgba(130,102,96,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t04-text1.png",
+        "rasterBox": [
+          471,
+          297,
+          860,
+          343
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "优惠金额",
+        "original": "50",
+        "font": "SourceHanSerifSC-Heavy",
+        "fontSize": 76.98234,
+        "transform": [
+          6.501313069704297,
+          4.676557573031215e-15,
+          0.0,
+          6.501313308171054,
+          685.4497346503522,
+          808.5435593152833
+        ],
+        "box": [
+          411,
+          441,
+          550,
+          377
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 92.37880799999999,
+        "tracking": -2.3094702,
+        "fill": "rgba(225,17,21,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t04-text2.png",
+        "rasterBox": [
+          411,
+          441,
+          961,
+          818
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "活动标题",
+        "original": "大额优惠券",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 29.4458,
+        "transform": [
+          1.8678385535814357,
+          1.3435831253313625e-15,
+          0.0,
+          1.8678386220933496,
+          660.520698683159,
+          890.9592054758646
+        ],
+        "box": [
+          520,
+          844,
+          282,
+          52
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 35.334959999999995,
+        "tracking": 1.4722899999999999,
+        "fill": "rgba(130,102,96,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t04-text3.png",
+        "rasterBox": [
+          520,
+          844,
+          802,
+          896
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "按钮文案",
+        "original": "立即领取",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 101.19408,
+        "transform": [
+          0.7510320829381414,
+          0.0,
+          0.0,
+          0.7510320829381415,
+          658.7791342512378,
+          1041.2902177629303
+        ],
+        "box": [
+          509,
+          976,
+          304,
+          72
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 121.432896,
+        "tracking": 2.529852,
+        "fill": "rgba(252,245,242,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t04-text4.png",
+        "rasterBox": [
+          509,
+          976,
+          813,
+          1048
+        ]
+      }
+    ],
+    "textClean": "catalog/t04-textclean.png"
+  },
+  {
+    "id": "t05",
+    "name": "直播贴纸 3",
+    "category": "直播贴纸",
+    "mode": "badge",
+    "width": 1320,
+    "height": 1320,
+    "url": "catalog/t05.png",
+    "thumb": "catalog/t05-thumb.png",
+    "source": "直播间贴片/sticker 3.png",
+    "canvasWidth": 720,
+    "canvasHeight": 1280,
+    "overlayWidth": 0.38,
+    "overlayX": 0.6,
+    "overlayY": 0.5,
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "利益点利益点利益",
+        "font": "SourceHanSansCN-Regular",
+        "fontSize": 50.02011,
+        "transform": [
+          1.7992761430939792,
+          1.2942644636160045e-15,
+          0.0,
+          1.7992762090910404,
+          1132.8585463489035,
+          813.3423952843546
+        ],
+        "box": [
+          416,
+          737,
+          713,
+          83
+        ],
+        "vertical": false,
+        "align": "right",
+        "leading": 60.024132,
+        "tracking": 0.0,
+        "fill": "rgba(131,102,96,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t05-text1.png",
+        "rasterBox": [
+          416,
+          737,
+          1129,
+          820
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "利益点利益点利益",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 64.47037,
+        "transform": [
+          1.7992761430939792,
+          1.2942644636160045e-15,
+          0.0,
+          1.7992762090910404,
+          1132.9385553063094,
+          966.9416786918746
+        ],
+        "box": [
+          207,
+          868,
+          922,
+          109
+        ],
+        "vertical": false,
+        "align": "right",
+        "leading": 77.364444,
+        "tracking": 0.0,
+        "fill": "rgba(225,17,21,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t05-text2.png",
+        "rasterBox": [
+          207,
+          868,
+          1129,
+          977
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "立即领取",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 100.89787,
+        "transform": [
+          1.0446205843964766,
+          0.0,
+          0.0,
+          1.0446205843964766,
+          658.3302776279534,
+          1176.493743321468
+        ],
+        "box": [
+          451,
+          1086,
+          420,
+          100
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 121.07744399999999,
+        "tracking": 2.52244675,
+        "fill": "rgba(252,245,242,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t05-text3.png",
+        "rasterBox": [
+          451,
+          1086,
+          871,
+          1186
+        ]
+      }
+    ],
+    "textClean": "catalog/t05-textclean.png"
+  },
+  {
+    "id": "t06",
+    "name": "竖版视频框 · 食品饮料",
+    "category": "视频边框",
+    "mode": "overlay",
+    "width": 1125,
+    "height": 2437,
+    "url": "catalog/t06.png",
+    "thumb": "catalog/t06-thumb.png",
+    "source": "竖版视频边框/导出贴片/冬藏季-食品饮料.png"
+  },
+  {
+    "id": "t07",
+    "name": "竖版视频框 · 美妆",
+    "category": "视频边框",
+    "mode": "overlay",
+    "width": 1125,
+    "height": 2437,
+    "url": "catalog/t07.png",
+    "thumb": "catalog/t07-thumb.png",
+    "source": "竖版视频边框/导出贴片/冬藏季-美妆.png"
+  },
+  {
+    "id": "t08",
+    "name": "食品饮料 · 行业贴片",
+    "category": "行业贴片",
+    "mode": "badge",
+    "width": 777,
+    "height": 189,
+    "url": "catalog/t08.png",
+    "thumb": "catalog/t08-thumb.png",
+    "source": "竖版视频边框/导出贴片/食品饮料.png",
+    "canvasWidth": 720,
+    "canvasHeight": 1280,
+    "overlayWidth": 0.4,
+    "overlayX": 0.56,
+    "overlayY": 0.15
+  },
+  {
+    "id": "t09",
+    "name": "美妆 · 行业贴片",
+    "category": "行业贴片",
+    "mode": "badge",
+    "width": 547,
+    "height": 272,
+    "url": "catalog/t09.png",
+    "thumb": "catalog/t09-thumb.png",
+    "source": "竖版视频边框/导出贴片/美妆.png",
+    "canvasWidth": 720,
+    "canvasHeight": 1280,
+    "overlayWidth": 0.4,
+    "overlayX": 0.56,
+    "overlayY": 0.15
+  },
+  {
+    "id": "t10",
+    "name": "主题大图 1",
+    "category": "主题与 KV",
+    "mode": "original",
+    "width": 800,
+    "height": 800,
+    "url": "catalog/t10.jpg",
+    "thumb": "catalog/t10-thumb.png",
+    "source": "主题大图/1.jpg"
+  },
+  {
+    "id": "t11",
+    "name": "主题大图 2",
+    "category": "主题与 KV",
+    "mode": "original",
+    "width": 800,
+    "height": 800,
+    "url": "catalog/t11.jpg",
+    "thumb": "catalog/t11-thumb.png",
+    "source": "主题大图/2.jpg"
+  },
+  {
+    "id": "t12",
+    "name": "主题大图 3",
+    "category": "主题与 KV",
+    "mode": "original",
+    "width": 800,
+    "height": 800,
+    "url": "catalog/t12.jpg",
+    "thumb": "catalog/t12-thumb.png",
+    "source": "主题大图/3.jpg"
+  },
+  {
+    "id": "t13",
+    "name": "主题大图 4",
+    "category": "主题与 KV",
+    "mode": "original",
+    "width": 800,
+    "height": 800,
+    "url": "catalog/t13.jpg",
+    "thumb": "catalog/t13-thumb.png",
+    "source": "主题大图/4.jpg"
+  },
+  {
+    "id": "t14",
+    "name": "主题大图 5",
+    "category": "主题与 KV",
+    "mode": "original",
+    "width": 800,
+    "height": 800,
+    "url": "catalog/t14.jpg",
+    "thumb": "catalog/t14-thumb.png",
+    "source": "主题大图/5.jpg"
+  },
+  {
+    "id": "t15",
+    "name": "冬藏季 · 通用 KV",
+    "category": "主题与 KV",
+    "mode": "original",
+    "width": 4000,
+    "height": 2250,
+    "url": "catalog/t15.jpg",
+    "thumb": "catalog/t15-thumb.png",
+    "source": "KV/冬藏节-通用版.jpg"
+  },
+  {
+    "id": "t16",
+    "name": "商品主图框",
+    "category": "商品图框",
+    "mode": "overlay",
+    "width": 800,
+    "height": 800,
+    "url": "templates/square.png",
+    "thumb": "catalog/t16-thumb.png",
+    "source": "原需求表独立透明导出"
+  },
+  {
+    "id": "t17",
+    "name": "横版视频边框",
+    "category": "视频边框",
+    "mode": "overlay",
+    "width": 1280,
+    "height": 720,
+    "url": "templates/landscape.png",
+    "thumb": "catalog/t17-thumb.png",
+    "source": "原需求表独立透明导出"
+  },
+  {
+    "id": "t18",
+    "name": "商品方图 · 第一套 01",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t18-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t18-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "文案文案\n文案文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 76.60314,
+        "transform": [
+          0.9506498608518686,
+          0.0,
+          0.0,
+          0.9514841393510768,
+          28.70953800985035,
+          130.85267831753936
+        ],
+        "box": [
+          30,
+          70,
+          296,
+          150
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 2.2980942,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t18-text1.png",
+        "rasterBox": [
+          30,
+          70,
+          326,
+          220
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 70.7206,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          54.38095663401009,
+          300.63422409528675
+        ],
+        "box": [
+          55,
+          277,
+          139,
+          28
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t18-text2.png",
+        "rasterBox": [
+          55,
+          277,
+          194,
+          305
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 70.7206,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          54.38095663401009,
+          375.63422409528675
+        ],
+        "box": [
+          55,
+          352,
+          139,
+          28
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t18-text3.png",
+        "rasterBox": [
+          55,
+          352,
+          194,
+          380
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 70.7206,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          54.38095663401009,
+          451.63422409528675
+        ],
+        "box": [
+          55,
+          428,
+          139,
+          28
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t18-text4.png",
+        "rasterBox": [
+          55,
+          428,
+          194,
+          456
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t18-textclean-bg.png",
+    "textCleanFG": "catalog/t18-textclean-fg.png",
+    "bg": "catalog/t18-bg.png",
+    "fg": "catalog/t18-fg.png",
+    "slot": {
+      "x": 187,
+      "y": 155,
+      "width": 582,
+      "height": 585
+    },
+    "removedLayers": [
+      "图层 574",
+      "图层 572"
+    ]
+  },
+  {
+    "id": "t19",
+    "name": "商品方图 · 第一套 02",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t19-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t19-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案\n文案文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 69.36532,
+        "transform": [
+          0.9506498608518686,
+          0.0,
+          0.0,
+          0.9514841393510768,
+          28.709538009850803,
+          140.85267831753936
+        ],
+        "box": [
+          30,
+          86,
+          328,
+          144
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t19-text1.png",
+        "rasterBox": [
+          30,
+          86,
+          358,
+          230
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          57.380956634009635,
+          301.63422409528675
+        ],
+        "box": [
+          58,
+          277,
+          153,
+          29
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t19-text2.png",
+        "rasterBox": [
+          58,
+          277,
+          211,
+          306
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          57.380956634009635,
+          366.63422409528675
+        ],
+        "box": [
+          58,
+          342,
+          153,
+          29
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t19-text3.png",
+        "rasterBox": [
+          58,
+          342,
+          211,
+          371
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          57.380956634009635,
+          432.63422409528675
+        ],
+        "box": [
+          58,
+          408,
+          153,
+          29
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t19-text4.png",
+        "rasterBox": [
+          58,
+          408,
+          211,
+          437
+        ]
+      },
+      {
+        "id": "text5",
+        "label": "文案 5",
+        "original": "这里是文案·这里是文案·这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          399.38095663400964,
+          756.6342240952868
+        ],
+        "box": [
+          150,
+          732,
+          499,
+          29
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t19-text5.png",
+        "rasterBox": [
+          150,
+          732,
+          649,
+          761
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t19-textclean-bg.png",
+    "textCleanFG": "catalog/t19-textclean-fg.png",
+    "bg": "catalog/t19-bg.png",
+    "fg": "catalog/t19-fg.png",
+    "slot": {
+      "x": 271,
+      "y": 97,
+      "width": 503,
+      "height": 542
+    },
+    "removedLayers": [
+      "图层 575 拷贝",
+      "图层 575"
+    ]
+  },
+  {
+    "id": "t20",
+    "name": "商品方图 · 第一套 03",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t20-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t20-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 76.60314,
+        "transform": [
+          0.9506498608518686,
+          0.0,
+          0.0,
+          0.9514841393510768,
+          398.7095380098508,
+          100.85267831753936
+        ],
+        "box": [
+          138,
+          40,
+          521,
+          72
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 83.67799,
+        "tracking": 2.2980942,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t20-text1.png",
+        "rasterBox": [
+          138,
+          40,
+          659,
+          112
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.42377332899489484,
+          0.0,
+          0.0,
+          0.424145227199984,
+          113.80655999403552,
+          176.3922192943437
+        ],
+        "box": [
+          115,
+          150,
+          130,
+          32
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t20-text2.png",
+        "rasterBox": [
+          115,
+          150,
+          245,
+          182
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.42377332899489484,
+          0.0,
+          0.0,
+          0.424145227199984,
+          331.991049925854,
+          176.3922192943437
+        ],
+        "box": [
+          333,
+          150,
+          130,
+          32
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t20-text3.png",
+        "rasterBox": [
+          333,
+          150,
+          463,
+          182
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.42377332899489484,
+          0.0,
+          0.0,
+          0.424145227199984,
+          550.2832158695319,
+          176.3922192943437
+        ],
+        "box": [
+          551,
+          150,
+          131,
+          32
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t20-text4.png",
+        "rasterBox": [
+          551,
+          150,
+          682,
+          182
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t20-textclean-bg.png",
+    "textCleanFG": "catalog/t20-textclean-fg.png",
+    "bg": "catalog/t20-bg.png",
+    "fg": "catalog/t20-fg.png",
+    "slot": {
+      "x": 160,
+      "y": 234,
+      "width": 465,
+      "height": 500
+    },
+    "removedLayers": [
+      "图层 575 拷贝 3"
+    ]
+  },
+  {
+    "id": "t21",
+    "name": "商品方图 · 第一套 04",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t21-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t21-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 76.60314,
+        "transform": [
+          0.8624050795673784,
+          0.0,
+          0.0,
+          0.8631619155436087,
+          398.82764618683905,
+          102.29258397355443
+        ],
+        "box": [
+          163,
+          47,
+          473,
+          65
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 83.67799,
+        "tracking": 2.2980942,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t21-text1.png",
+        "rasterBox": [
+          163,
+          47,
+          636,
+          112
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          143.21009263118776,
+          173.73328449757355
+        ],
+        "box": [
+          144,
+          150,
+          110,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t21-text2.png",
+        "rasterBox": [
+          144,
+          150,
+          254,
+          177
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          344.8129775547368,
+          173.73328449757355
+        ],
+        "box": [
+          346,
+          150,
+          109,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t21-text3.png",
+        "rasterBox": [
+          346,
+          150,
+          455,
+          177
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          546.4158624782849,
+          173.73328449757355
+        ],
+        "box": [
+          547,
+          150,
+          110,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t21-text4.png",
+        "rasterBox": [
+          547,
+          150,
+          657,
+          177
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t21-textclean-bg.png",
+    "textCleanFG": "catalog/t21-textclean-fg.png",
+    "bg": "catalog/t21-bg.png",
+    "fg": "catalog/t21-fg.png",
+    "slot": {
+      "x": 178,
+      "y": 234,
+      "width": 444,
+      "height": 477
+    },
+    "removedLayers": [
+      "图层 575 拷贝",
+      "图层 575"
+    ]
+  },
+  {
+    "id": "t22",
+    "name": "商品方图 · 第一套 05",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "original",
+    "thumb": "catalog/t22-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t22-original.png"
+  },
+  {
+    "id": "t23",
+    "name": "商品方图 · 第一套 06",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t23-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t23-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案\n文案文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 69.36532,
+        "transform": [
+          0.9506498608518686,
+          0.0,
+          0.0,
+          0.9514841393510768,
+          42.7095380098508,
+          135.85267831753936
+        ],
+        "box": [
+          44,
+          81,
+          328,
+          144
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t23-text1.png",
+        "rasterBox": [
+          44,
+          81,
+          372,
+          225
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.9828418437868527,
+          0.0,
+          0.0,
+          0.9827190548493437,
+          78.00281619872112,
+          314.3112744732889
+        ],
+        "box": [
+          79,
+          286,
+          127,
+          32
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t23-text2.png",
+        "rasterBox": [
+          79,
+          286,
+          206,
+          318
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.9828418437868527,
+          0.0,
+          0.0,
+          0.9827190548493437,
+          78.00281619872112,
+          392.3112744732889
+        ],
+        "box": [
+          79,
+          364,
+          127,
+          32
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t23-text3.png",
+        "rasterBox": [
+          79,
+          364,
+          206,
+          396
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.9828418437868527,
+          0.0,
+          0.0,
+          0.9827190548493437,
+          78.00281619872112,
+          470.3112744732889
+        ],
+        "box": [
+          79,
+          442,
+          127,
+          32
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t23-text4.png",
+        "rasterBox": [
+          79,
+          442,
+          206,
+          474
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t23-textclean-bg.png",
+    "textCleanFG": "catalog/t23-textclean-fg.png",
+    "bg": "catalog/t23-bg.png",
+    "fg": "catalog/t23-fg.png",
+    "slot": {
+      "x": 302,
+      "y": 159,
+      "width": 467,
+      "height": 502
+    },
+    "removedLayers": [
+      "形状 1 拷贝 2",
+      "图层 575 拷贝 2"
+    ]
+  },
+  {
+    "id": "t24",
+    "name": "商品方图 · 第一套 07",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t24-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t24-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 76.60314,
+        "transform": [
+          0.8624050795673784,
+          0.0,
+          0.0,
+          0.8631619155436087,
+          398.82764618683905,
+          97.29258397355443
+        ],
+        "box": [
+          163,
+          42,
+          473,
+          65
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 83.67799,
+        "tracking": 2.2980942,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t24-text1.png",
+        "rasterBox": [
+          163,
+          42,
+          636,
+          107
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          143.21009263118776,
+          168.73328449757355
+        ],
+        "box": [
+          144,
+          145,
+          110,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t24-text2.png",
+        "rasterBox": [
+          144,
+          145,
+          254,
+          172
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          344.8129775547368,
+          168.73328449757355
+        ],
+        "box": [
+          346,
+          145,
+          109,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t24-text3.png",
+        "rasterBox": [
+          346,
+          145,
+          455,
+          172
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          546.4158624782849,
+          168.73328449757355
+        ],
+        "box": [
+          547,
+          145,
+          110,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t24-text4.png",
+        "rasterBox": [
+          547,
+          145,
+          657,
+          172
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t24-textclean-bg.png",
+    "textCleanFG": "catalog/t24-textclean-fg.png",
+    "bg": "catalog/t24-bg.png",
+    "fg": "catalog/t24-fg.png",
+    "slot": {
+      "x": 177,
+      "y": 220,
+      "width": 447,
+      "height": 482
+    },
+    "removedLayers": [
+      "形状 1 拷贝 4",
+      "图层 575 拷贝 5"
+    ]
+  },
+  {
+    "id": "t25",
+    "name": "商品方图 · 第一套 08",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t25-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t25-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 76.60314,
+        "transform": [
+          0.8624050795673784,
+          0.0,
+          0.0,
+          0.8631619155436087,
+          398.82764618683905,
+          108.29258397355443
+        ],
+        "box": [
+          163,
+          53,
+          473,
+          65
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 83.67799,
+        "tracking": 2.2980942,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t25-text1.png",
+        "rasterBox": [
+          163,
+          53,
+          636,
+          118
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          143.21009263118776,
+          179.73328449757355
+        ],
+        "box": [
+          144,
+          156,
+          110,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t25-text2.png",
+        "rasterBox": [
+          144,
+          156,
+          254,
+          183
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          344.8129775547368,
+          179.73328449757355
+        ],
+        "box": [
+          346,
+          156,
+          109,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t25-text3.png",
+        "rasterBox": [
+          346,
+          156,
+          455,
+          183
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "我是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 32.56271,
+        "transform": [
+          0.8482672643835173,
+          0.0,
+          0.0,
+          0.8481612881913408,
+          546.4158624782849,
+          179.73328449757355
+        ],
+        "box": [
+          547,
+          156,
+          110,
+          27
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.075252,
+        "tracking": 0.0,
+        "fill": "rgba(140,2,1,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t25-text4.png",
+        "rasterBox": [
+          547,
+          156,
+          657,
+          183
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t25-textclean-bg.png",
+    "textCleanFG": "catalog/t25-textclean-fg.png",
+    "bg": "catalog/t25-bg.png",
+    "fg": "catalog/t25-fg.png",
+    "slot": {
+      "x": 167,
+      "y": 249,
+      "width": 447,
+      "height": 482
+    },
+    "removedLayers": [
+      "形状 1 拷贝 4",
+      "图层 575 拷贝 5"
+    ]
+  },
+  {
+    "id": "t26",
+    "name": "商品方图 · 第一套 09",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t26-thumb.png",
+    "source": "投放物料（九图）/第一套/投放物料（九图）.psd",
+    "url": "catalog/t26-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 62.0,
+        "transform": [
+          1.0,
+          0.0,
+          0.0,
+          1.0,
+          87.02514449260252,
+          59.379128130382014
+        ],
+        "box": [
+          53,
+          60,
+          62,
+          308
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(243,68,66,0.28)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 54.0
+          }
+        ],
+        "url": "catalog/t26-text1.png",
+        "rasterBox": [
+          53,
+          60,
+          115,
+          368
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "这里是文案",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 62.0,
+        "transform": [
+          1.0,
+          0.0,
+          0.0,
+          1.0,
+          165.02514449260252,
+          111.37912813038201
+        ],
+        "box": [
+          131,
+          112,
+          62,
+          308
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 83.67799,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(243,68,66,0.28)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 54.0
+          }
+        ],
+        "url": "catalog/t26-text2.png",
+        "rasterBox": [
+          131,
+          112,
+          193,
+          420
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "这里是文案·这里是文案·这里是文案",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 75.77208,
+        "transform": [
+          0.3955770539261792,
+          0.0,
+          0.0,
+          0.39592420743080986,
+          399.38095663400964,
+          756.6342240952872
+        ],
+        "box": [
+          150,
+          732,
+          499,
+          29
+        ],
+        "vertical": false,
+        "align": "center",
+        "leading": 83.67799,
+        "tracking": 2.2731624000000004,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t26-text3.png",
+        "rasterBox": [
+          150,
+          732,
+          649,
+          761
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t26-textclean-bg.png",
+    "textCleanFG": "catalog/t26-textclean-fg.png",
+    "bg": "catalog/t26-bg.png",
+    "fg": "catalog/t26-fg.png",
+    "slot": {
+      "x": 233,
+      "y": 90,
+      "width": 486,
+      "height": 523
+    },
+    "removedLayers": [
+      "形状 1 拷贝 3",
+      "图层 575 拷贝 4"
+    ]
+  },
+  {
+    "id": "t27",
+    "name": "商品方图 · 第二套 01",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t27-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t27-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          153.54654371908146,
+          137.2302398065358
+        ],
+        "box": [
+          155,
+          52,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t27-text1.png",
+        "rasterBox": [
+          155,
+          52,
+          645,
+          146
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          175.10530716544372,
+          221.70779040411708
+        ],
+        "box": [
+          176,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t27-text2.png",
+        "rasterBox": [
+          176,
+          188,
+          334,
+          226
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          464.1053071654437,
+          221.70779040411708
+        ],
+        "box": [
+          465,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t27-text3.png",
+        "rasterBox": [
+          465,
+          188,
+          623,
+          226
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "我是文案·我是文案·我是文案",
+        "font": "SourceHanSansSC-Regular",
+        "fontSize": 26.28889,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          147.54654371908146,
+          759.2302398065358
+        ],
+        "box": [
+          149,
+          728,
+          502,
+          35
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t27-text4.png",
+        "rasterBox": [
+          149,
+          728,
+          651,
+          763
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t27-textclean-bg.png",
+    "textCleanFG": "catalog/t27-textclean-fg.png",
+    "bg": "catalog/t27-bg.png",
+    "fg": "catalog/t27-fg.png",
+    "slot": {
+      "x": 190,
+      "y": 263,
+      "width": 401,
+      "height": 432
+    },
+    "removedLayers": [
+      "对图片进行抠图处理 (9) 拷贝 2"
+    ]
+  },
+  {
+    "id": "t28",
+    "name": "商品方图 · 第二套 02",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t28-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t28-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          41.546543719081455,
+          175.2302398065358
+        ],
+        "box": [
+          43,
+          90,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t28-text1.png",
+        "rasterBox": [
+          43,
+          90,
+          533,
+          184
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          89.10530716544417,
+          266.7077904041171
+        ],
+        "box": [
+          90,
+          233,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t28-text2.png",
+        "rasterBox": [
+          90,
+          233,
+          248,
+          271
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          89.10530716544417,
+          363.7077904041171
+        ],
+        "box": [
+          90,
+          330,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t28-text3.png",
+        "rasterBox": [
+          90,
+          330,
+          248,
+          368
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t28-textclean-bg.png",
+    "textCleanFG": "catalog/t28-textclean-fg.png",
+    "bg": "catalog/t28-bg.png",
+    "fg": "catalog/t28-fg.png",
+    "slot": {
+      "x": 263,
+      "y": 242,
+      "width": 476,
+      "height": 510
+    },
+    "removedLayers": [
+      "形状 7",
+      "图层 9",
+      "图层 10",
+      "稿定",
+      "“对图片进行抠图处理 (9)”的投影",
+      "对图片进行抠图处理 (9)"
+    ]
+  },
+  {
+    "id": "t29",
+    "name": "商品方图 · 第二套 03",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t29-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t29-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          41.546543719081455,
+          175.2302398065358
+        ],
+        "box": [
+          43,
+          90,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t29-text1.png",
+        "rasterBox": [
+          43,
+          90,
+          533,
+          184
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          89.10530716544417,
+          266.7077904041171
+        ],
+        "box": [
+          90,
+          233,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t29-text2.png",
+        "rasterBox": [
+          90,
+          233,
+          248,
+          271
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          89.10530716544417,
+          363.7077904041171
+        ],
+        "box": [
+          90,
+          330,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t29-text3.png",
+        "rasterBox": [
+          90,
+          330,
+          248,
+          368
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t29-textclean-bg.png",
+    "textCleanFG": "catalog/t29-textclean-fg.png",
+    "bg": "catalog/t29-bg.png",
+    "fg": "catalog/t29-fg.png",
+    "slot": {
+      "x": 259,
+      "y": 237,
+      "width": 499,
+      "height": 534
+    },
+    "removedLayers": [
+      "形状 7",
+      "图层 13",
+      "图层 14",
+      "稿定",
+      "“对图片进行抠图处理 (9)”的投影",
+      "对图片进行抠图处理 (9)"
+    ]
+  },
+  {
+    "id": "t30",
+    "name": "商品方图 · 第二套 04",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t30-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t30-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          153.54654371908146,
+          137.2302398065358
+        ],
+        "box": [
+          155,
+          52,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t30-text1.png",
+        "rasterBox": [
+          155,
+          52,
+          645,
+          146
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          175.10530716544372,
+          221.70779040411708
+        ],
+        "box": [
+          176,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t30-text2.png",
+        "rasterBox": [
+          176,
+          188,
+          334,
+          226
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          464.1053071654437,
+          221.70779040411708
+        ],
+        "box": [
+          465,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t30-text3.png",
+        "rasterBox": [
+          465,
+          188,
+          623,
+          226
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t30-textclean-bg.png",
+    "textCleanFG": "catalog/t30-textclean-fg.png",
+    "bg": "catalog/t30-bg.png",
+    "fg": "catalog/t30-fg.png",
+    "slot": {
+      "x": 203,
+      "y": 289,
+      "width": 391,
+      "height": 421
+    },
+    "removedLayers": [
+      "图层 18",
+      "对图片进行抠图处理 (9) 拷贝 2"
+    ]
+  },
+  {
+    "id": "t31",
+    "name": "商品方图 · 第二套 05",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "original",
+    "thumb": "catalog/t31-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t31-original.png"
+  },
+  {
+    "id": "t32",
+    "name": "商品方图 · 第二套 06",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t32-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t32-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          153.54654371908146,
+          137.2302398065358
+        ],
+        "box": [
+          155,
+          52,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t32-text1.png",
+        "rasterBox": [
+          155,
+          52,
+          645,
+          146
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          175.10530716544417,
+          221.70779040411708
+        ],
+        "box": [
+          176,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t32-text2.png",
+        "rasterBox": [
+          176,
+          188,
+          334,
+          226
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          464.1053071654442,
+          221.70779040411708
+        ],
+        "box": [
+          465,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t32-text3.png",
+        "rasterBox": [
+          465,
+          188,
+          623,
+          226
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t32-textclean-bg.png",
+    "textCleanFG": "catalog/t32-textclean-fg.png",
+    "bg": "catalog/t32-bg.png",
+    "fg": "catalog/t32-fg.png",
+    "slot": {
+      "x": 200,
+      "y": 276,
+      "width": 391,
+      "height": 421
+    },
+    "removedLayers": [
+      "图层 17",
+      "对图片进行抠图处理 (9) 拷贝 2"
+    ]
+  },
+  {
+    "id": "t33",
+    "name": "商品方图 · 第二套 07",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t33-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t33-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          153.54654371908146,
+          137.2302398065358
+        ],
+        "box": [
+          155,
+          52,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t33-text1.png",
+        "rasterBox": [
+          155,
+          52,
+          645,
+          146
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          175.10530716544372,
+          221.70779040411708
+        ],
+        "box": [
+          176,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t33-text2.png",
+        "rasterBox": [
+          176,
+          188,
+          334,
+          226
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          464.1053071654437,
+          221.70779040411708
+        ],
+        "box": [
+          465,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t33-text3.png",
+        "rasterBox": [
+          465,
+          188,
+          623,
+          226
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t33-textclean-bg.png",
+    "textCleanFG": "catalog/t33-textclean-fg.png",
+    "bg": "catalog/t33-bg.png",
+    "fg": "catalog/t33-fg.png",
+    "slot": {
+      "x": 156,
+      "y": 281,
+      "width": 461,
+      "height": 493
+    },
+    "removedLayers": [
+      "形状 7",
+      "图层 11",
+      "图层 12",
+      "稿定",
+      "“对图片进行抠图处理 (9)”的投影",
+      "对图片进行抠图处理 (9)"
+    ]
+  },
+  {
+    "id": "t34",
+    "name": "商品方图 · 第二套 08",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t34-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t34-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          153.54654371908146,
+          137.2302398065358
+        ],
+        "box": [
+          155,
+          52,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t34-text1.png",
+        "rasterBox": [
+          155,
+          52,
+          645,
+          146
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          175.10530716544417,
+          221.70779040411708
+        ],
+        "box": [
+          176,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t34-text2.png",
+        "rasterBox": [
+          176,
+          188,
+          334,
+          226
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          464.1053071654442,
+          221.70779040411708
+        ],
+        "box": [
+          465,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(137,5,0,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t34-text3.png",
+        "rasterBox": [
+          465,
+          188,
+          623,
+          226
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t34-textclean-bg.png",
+    "textCleanFG": "catalog/t34-textclean-fg.png",
+    "bg": "catalog/t34-bg.png",
+    "fg": "catalog/t34-fg.png",
+    "slot": {
+      "x": 203,
+      "y": 288,
+      "width": 391,
+      "height": 421
+    },
+    "removedLayers": [
+      "图层 19",
+      "对图片进行抠图处理 (9) 拷贝 2"
+    ]
+  },
+  {
+    "id": "t35",
+    "name": "商品方图 · 第二套 09",
+    "category": "商品方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t35-thumb.png",
+    "source": "投放物料（九图）/第二套/投放-for商家主图.psd",
+    "url": "catalog/t35-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "这里是文案",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          153.54654371908146,
+          137.2302398065358
+        ],
+        "box": [
+          155,
+          52,
+          490,
+          94
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t35-text1.png",
+        "rasterBox": [
+          155,
+          52,
+          645,
+          146
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          175.10530716544417,
+          221.70779040411708
+        ],
+        "box": [
+          176,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t35-text2.png",
+        "rasterBox": [
+          176,
+          188,
+          334,
+          226
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "文案 3",
+        "original": "我是文案",
+        "font": "SourceHanSansSC-Medium",
+        "fontSize": 33.19912,
+        "transform": [
+          1.2048511110949849,
+          0.0,
+          0.0,
+          1.2048511110949864,
+          464.1053071654442,
+          221.70779040411708
+        ],
+        "box": [
+          465,
+          188,
+          158,
+          38
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 39.838944,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(191,0,8,0.97)",
+            "angle": 128.0,
+            "distance": 4.0,
+            "blur": 3.0
+          }
+        ],
+        "url": "catalog/t35-text3.png",
+        "rasterBox": [
+          465,
+          188,
+          623,
+          226
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "文案 4",
+        "original": "我是文案·我是文案·我是文案",
+        "font": "SourceHanSansSC-Regular",
+        "fontSize": 26.28889,
+        "transform": [
+          1.3693999256697458,
+          0.0,
+          0.0,
+          1.3693999256697458,
+          147.54654371908146,
+          759.2302398065358
+        ],
+        "box": [
+          149,
+          728,
+          502,
+          35
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(238,76,67,0.6)",
+            "angle": 90.0,
+            "distance": 0.0,
+            "blur": 29.0
+          },
+          {
+            "type": "gradient",
+            "angle": 157.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              33.501891103360045,
+              56.57167719111384
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(255,217,180,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,248,241,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t35-text4.png",
+        "rasterBox": [
+          149,
+          728,
+          651,
+          763
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t35-textclean-bg.png",
+    "textCleanFG": "catalog/t35-textclean-fg.png",
+    "bg": "catalog/t35-bg.png",
+    "fg": "catalog/t35-fg.png",
+    "slot": {
+      "x": 181,
+      "y": 263,
+      "width": 401,
+      "height": 432
+    },
+    "removedLayers": [
+      "对图片进行抠图处理 (9) 拷贝 2"
+    ]
+  },
+  {
+    "id": "t36",
+    "name": "达人方图 · 第一套 01",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t36-thumb.png",
+    "source": "投放-for达人/投放-for达人1.psd",
+    "url": "catalog/t36-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称名",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          0.37754971973268087,
+          0.0,
+          0.0,
+          0.37754971973268125,
+          672.6037370901226,
+          90.53643244411569
+        ],
+        "box": [
+          657,
+          92,
+          29,
+          216
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.5,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.00146484375,
+                "rgba(166,170,255,1.0)"
+              ],
+              [
+                0.4931640625,
+                "rgba(247,68,71,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,141,67,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t36-text1.png",
+        "rasterBox": [
+          657,
+          92,
+          686,
+          308
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t36-textclean-bg.png",
+    "textCleanFG": "catalog/t36-textclean-fg.png",
+    "bg": "catalog/t36-bg.png",
+    "fg": "catalog/t36-fg.png",
+    "slot": {
+      "x": 84,
+      "y": 58,
+      "width": 669,
+      "height": 742
+    },
+    "removedLayers": [
+      "人物"
+    ]
+  },
+  {
+    "id": "t37",
+    "name": "达人方图 · 第一套 02",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t37-thumb.png",
+    "source": "投放-for达人/投放-for达人1.psd",
+    "url": "catalog/t37-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称名",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          0.37754971973268087,
+          0.0,
+          0.0,
+          0.37754971973268125,
+          672.6037370901226,
+          90.53643244411569
+        ],
+        "box": [
+          657,
+          92,
+          29,
+          216
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.5,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.00146484375,
+                "rgba(166,170,255,1.0)"
+              ],
+              [
+                0.4931640625,
+                "rgba(247,68,71,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,141,67,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t37-text1.png",
+        "rasterBox": [
+          657,
+          92,
+          686,
+          308
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t37-textclean-bg.png",
+    "textCleanFG": "catalog/t37-textclean-fg.png",
+    "bg": "catalog/t37-bg.png",
+    "fg": "catalog/t37-fg.png",
+    "slot": {
+      "x": 101,
+      "y": 67,
+      "width": 669,
+      "height": 733
+    },
+    "removedLayers": [
+      "人物 拷贝"
+    ]
+  },
+  {
+    "id": "t38",
+    "name": "达人方图 · 第一套 03",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t38-thumb.png",
+    "source": "投放-for达人/投放-for达人1.psd",
+    "url": "catalog/t38-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称名",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          0.37754971973268087,
+          0.0,
+          0.0,
+          0.37754971973268125,
+          672.6037370901226,
+          90.53643244411569
+        ],
+        "box": [
+          657,
+          92,
+          29,
+          216
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.5,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.00146484375,
+                "rgba(166,170,255,1.0)"
+              ],
+              [
+                0.4931640625,
+                "rgba(247,68,71,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,141,67,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t38-text1.png",
+        "rasterBox": [
+          657,
+          92,
+          686,
+          308
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t38-textclean-bg.png",
+    "textCleanFG": "catalog/t38-textclean-fg.png",
+    "bg": "catalog/t38-bg.png",
+    "fg": "catalog/t38-fg.png",
+    "slot": {
+      "x": 93,
+      "y": 58,
+      "width": 669,
+      "height": 742
+    },
+    "removedLayers": [
+      "人物 拷贝"
+    ]
+  },
+  {
+    "id": "t39",
+    "name": "达人方图 · 第一套 04",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t39-thumb.png",
+    "source": "投放-for达人/投放-for达人1.psd",
+    "url": "catalog/t39-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称名",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          0.37754971973268087,
+          0.0,
+          0.0,
+          0.37754971973268125,
+          672.6037370901226,
+          90.53643244411569
+        ],
+        "box": [
+          657,
+          92,
+          29,
+          216
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.5,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.00146484375,
+                "rgba(166,170,255,1.0)"
+              ],
+              [
+                0.4931640625,
+                "rgba(247,68,71,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,141,67,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t39-text1.png",
+        "rasterBox": [
+          657,
+          92,
+          686,
+          308
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t39-textclean-bg.png",
+    "textCleanFG": "catalog/t39-textclean-fg.png",
+    "bg": "catalog/t39-bg.png",
+    "fg": "catalog/t39-fg.png",
+    "slot": {
+      "x": 81,
+      "y": 38,
+      "width": 669,
+      "height": 762
+    },
+    "removedLayers": [
+      "人物 拷贝"
+    ]
+  },
+  {
+    "id": "t40",
+    "name": "达人方图 · 第一套 05",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t40-thumb.png",
+    "source": "投放-for达人/投放-for达人1.psd",
+    "url": "catalog/t40-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称名",
+        "font": "SourceHanSansSC-Bold",
+        "fontSize": 72.0,
+        "transform": [
+          0.37754971973268087,
+          0.0,
+          0.0,
+          0.37754971973268125,
+          672.6037370901226,
+          90.53643244411569
+        ],
+        "box": [
+          657,
+          92,
+          29,
+          216
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 72.0,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.5,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.00146484375,
+                "rgba(166,170,255,1.0)"
+              ],
+              [
+                0.4931640625,
+                "rgba(247,68,71,1.0)"
+              ],
+              [
+                1.0,
+                "rgba(255,141,67,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t40-text1.png",
+        "rasterBox": [
+          657,
+          92,
+          686,
+          308
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t40-textclean-bg.png",
+    "textCleanFG": "catalog/t40-textclean-fg.png",
+    "bg": "catalog/t40-bg.png",
+    "fg": "catalog/t40-fg.png",
+    "slot": {
+      "x": 87,
+      "y": 62,
+      "width": 669,
+      "height": 738
+    },
+    "removedLayers": [
+      "人物 拷贝"
+    ]
+  },
+  {
+    "id": "t41",
+    "name": "达人方图 · 第二套 01",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t41-thumb.png",
+    "source": "投放-for达人/投放-for达人2.psd",
+    "url": "catalog/t41-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称称",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 28.0,
+        "transform": [
+          1.0,
+          0.0,
+          0.0,
+          1.0,
+          675.3703978305193,
+          85.78966274653067
+        ],
+        "box": [
+          656,
+          88,
+          30,
+          221
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 33.6,
+        "tracking": 0.0,
+        "fill": "rgba(245,88,81,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              5.352117044262019,
+              13.864932616569817
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(188,143,251,1.0)"
+              ],
+              [
+                0.1943359375,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.514892578125,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.990234375,
+                "rgba(251,140,68,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t41-text1.png",
+        "rasterBox": [
+          656,
+          88,
+          686,
+          309
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t41-textclean-bg.png",
+    "textCleanFG": "catalog/t41-textclean-fg.png",
+    "bg": "catalog/t41-bg.png",
+    "fg": "catalog/t41-fg.png",
+    "slot": {
+      "x": 144,
+      "y": 68,
+      "width": 563,
+      "height": 732
+    },
+    "removedLayers": [
+      "达人更换"
+    ]
+  },
+  {
+    "id": "t42",
+    "name": "达人方图 · 第二套 02",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t42-thumb.png",
+    "source": "投放-for达人/投放-for达人2.psd",
+    "url": "catalog/t42-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称称",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 28.0,
+        "transform": [
+          1.0,
+          0.0,
+          0.0,
+          1.0,
+          681.3703978305193,
+          85.78966274653067
+        ],
+        "box": [
+          662,
+          88,
+          30,
+          221
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 33.6,
+        "tracking": 0.0,
+        "fill": "rgba(245,88,81,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              5.352117044262019,
+              13.864932616569817
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(188,143,251,1.0)"
+              ],
+              [
+                0.1943359375,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.514892578125,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.990234375,
+                "rgba(251,140,68,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t42-text1.png",
+        "rasterBox": [
+          662,
+          88,
+          692,
+          309
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t42-textclean-bg.png",
+    "textCleanFG": "catalog/t42-textclean-fg.png",
+    "bg": "catalog/t42-bg.png",
+    "fg": "catalog/t42-fg.png",
+    "slot": {
+      "x": 150,
+      "y": 68,
+      "width": 563,
+      "height": 732
+    },
+    "removedLayers": [
+      "达人更换"
+    ]
+  },
+  {
+    "id": "t43",
+    "name": "达人方图 · 第二套 03",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t43-thumb.png",
+    "source": "投放-for达人/投放-for达人2.psd",
+    "url": "catalog/t43-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称称",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 28.0,
+        "transform": [
+          1.0,
+          0.0,
+          0.0,
+          1.0,
+          678.3703978305202,
+          85.78966274653067
+        ],
+        "box": [
+          659,
+          88,
+          30,
+          221
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 33.6,
+        "tracking": 0.0,
+        "fill": "rgba(245,88,81,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              5.352117044262019,
+              13.864932616569817
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(188,143,251,1.0)"
+              ],
+              [
+                0.1943359375,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.514892578125,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.990234375,
+                "rgba(251,140,68,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t43-text1.png",
+        "rasterBox": [
+          659,
+          88,
+          689,
+          309
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t43-textclean-bg.png",
+    "textCleanFG": "catalog/t43-textclean-fg.png",
+    "bg": "catalog/t43-bg.png",
+    "fg": "catalog/t43-fg.png",
+    "slot": {
+      "x": 147,
+      "y": 68,
+      "width": 563,
+      "height": 732
+    },
+    "removedLayers": [
+      "达人更换"
+    ]
+  },
+  {
+    "id": "t44",
+    "name": "达人方图 · 第二套 04",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t44-thumb.png",
+    "source": "投放-for达人/投放-for达人2.psd",
+    "url": "catalog/t44-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称称",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 28.0,
+        "transform": [
+          1.0,
+          0.0,
+          0.0,
+          1.0,
+          681.3703978305193,
+          90.78966274653067
+        ],
+        "box": [
+          662,
+          93,
+          30,
+          221
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 33.6,
+        "tracking": 0.0,
+        "fill": "rgba(245,88,81,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              5.352117044262019,
+              13.864932616569817
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(188,143,251,1.0)"
+              ],
+              [
+                0.1943359375,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.514892578125,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.990234375,
+                "rgba(251,140,68,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t44-text1.png",
+        "rasterBox": [
+          662,
+          93,
+          692,
+          314
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t44-textclean-bg.png",
+    "textCleanFG": "catalog/t44-textclean-fg.png",
+    "bg": "catalog/t44-bg.png",
+    "fg": "catalog/t44-fg.png",
+    "slot": {
+      "x": 150,
+      "y": 73,
+      "width": 563,
+      "height": 727
+    },
+    "removedLayers": [
+      "达人更换"
+    ]
+  },
+  {
+    "id": "t45",
+    "name": "达人方图 · 第二套 05",
+    "category": "达人方图",
+    "width": 800,
+    "height": 800,
+    "mode": "layered",
+    "thumb": "catalog/t45-thumb.png",
+    "source": "投放-for达人/投放-for达人2.psd",
+    "url": "catalog/t45-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "达人名称",
+        "original": "@达人名称名称称",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 28.0,
+        "transform": [
+          1.0,
+          0.0,
+          0.0,
+          1.0,
+          681.3703978305193,
+          90.78966274653067
+        ],
+        "box": [
+          662,
+          93,
+          30,
+          221
+        ],
+        "vertical": true,
+        "align": "left",
+        "leading": 33.6,
+        "tracking": 0.0,
+        "fill": "rgba(245,88,81,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": -90.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              5.352117044262019,
+              13.864932616569817
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(188,143,251,1.0)"
+              ],
+              [
+                0.1943359375,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.514892578125,
+                "rgba(247,69,72,1.0)"
+              ],
+              [
+                0.990234375,
+                "rgba(251,140,68,1.0)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t45-text1.png",
+        "rasterBox": [
+          662,
+          93,
+          692,
+          314
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t45-textclean-bg.png",
+    "textCleanFG": "catalog/t45-textclean-fg.png",
+    "bg": "catalog/t45-bg.png",
+    "fg": "catalog/t45-fg.png",
+    "slot": {
+      "x": 150,
+      "y": 73,
+      "width": 563,
+      "height": 727
+    },
+    "removedLayers": [
+      "达人更换"
+    ]
+  },
+  {
+    "id": "t46",
+    "name": "横版商品 01",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t46-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-商品.psd",
+    "url": "catalog/t46-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.5960515268336866,
+          0.0,
+          0.0,
+          2.5981881947570047,
+          75.4725412199593,
+          280.7701354172623
+        ],
+        "box": [
+          76,
+          217,
+          449,
+          71
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t46-text1.png",
+        "rasterBox": [
+          76,
+          217,
+          525,
+          288
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.628677016750789,
+          0.0,
+          0.0,
+          2.630840536929183,
+          72.05158163179689,
+          348.4807380092607
+        ],
+        "box": [
+          74,
+          311,
+          444,
+          41
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t46-text2.png",
+        "rasterBox": [
+          74,
+          311,
+          518,
+          352
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226872027013392,
+          0.0,
+          0.0,
+          2.228704843496528,
+          97.77322279198165,
+          534.5767326390978
+        ],
+        "box": [
+          99,
+          505,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t46-text3.png",
+        "rasterBox": [
+          99,
+          505,
+          335,
+          538
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t46-textclean-bg.png",
+    "textCleanFG": "catalog/t46-textclean-fg.png",
+    "bg": "catalog/t46-bg.png",
+    "fg": "catalog/t46-fg.png",
+    "slot": {
+      "x": 566,
+      "y": 113,
+      "width": 429,
+      "height": 462
+    },
+    "removedLayers": [
+      "产品样例"
+    ]
+  },
+  {
+    "id": "t47",
+    "name": "横版商品 02",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t47-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-商品.psd",
+    "url": "catalog/t47-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.7048128117023955,
+          0.0,
+          0.0,
+          2.7070389950865117,
+          75.48480079367891,
+          279.8030052786371
+        ],
+        "box": [
+          76,
+          213,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t47-text1.png",
+        "rasterBox": [
+          76,
+          213,
+          544,
+          288
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.738805142826684,
+          0.0,
+          0.0,
+          2.741059303438063,
+          71.92052049078984,
+          350.3503359020401
+        ],
+        "box": [
+          74,
+          311,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t47-text2.png",
+        "rasterBox": [
+          74,
+          311,
+          537,
+          354
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226872027013392,
+          0.0,
+          0.0,
+          2.228704843496528,
+          97.77322279198188,
+          497.5767326390978
+        ],
+        "box": [
+          99,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.68)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 9.0
+          }
+        ],
+        "url": "catalog/t47-text3.png",
+        "rasterBox": [
+          99,
+          468,
+          335,
+          501
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t47-textclean-bg.png",
+    "textCleanFG": "catalog/t47-textclean-fg.png",
+    "bg": "catalog/t47-bg.png",
+    "fg": "catalog/t47-fg.png",
+    "slot": {
+      "x": 565,
+      "y": 86,
+      "width": 443,
+      "height": 476
+    },
+    "removedLayers": [
+      "产品样例"
+    ]
+  },
+  {
+    "id": "t48",
+    "name": "横版商品 03",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t48-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-商品.psd",
+    "url": "catalog/t48-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.7048128117023955,
+          0.0,
+          0.0,
+          2.7070389950865117,
+          536.4848007936789,
+          288.8030052786371
+        ],
+        "box": [
+          537,
+          222,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t48-text1.png",
+        "rasterBox": [
+          537,
+          222,
+          1005,
+          297
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.738805142826684,
+          0.0,
+          0.0,
+          2.741059303438063,
+          537.9205204907898,
+          359.3503359020401
+        ],
+        "box": [
+          540,
+          320,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t48-text2.png",
+        "rasterBox": [
+          540,
+          320,
+          1003,
+          363
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226460329467263,
+          0.0,
+          0.0,
+          2.228704843496528,
+          694.798962628774,
+          497.5767326390978
+        ],
+        "box": [
+          696,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t48-text3.png",
+        "rasterBox": [
+          696,
+          468,
+          932,
+          501
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t48-textclean-bg.png",
+    "textCleanFG": "catalog/t48-textclean-fg.png",
+    "bg": "catalog/t48-bg.png",
+    "fg": "catalog/t48-fg.png",
+    "slot": {
+      "x": 52,
+      "y": 125,
+      "width": 410,
+      "height": 442
+    },
+    "removedLayers": [
+      "产品样例"
+    ]
+  },
+  {
+    "id": "t49",
+    "name": "横版商品 04",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t49-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-商品.psd",
+    "url": "catalog/t49-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.7048128117023955,
+          0.0,
+          0.0,
+          2.7070389950865117,
+          536.4848007936789,
+          288.8030052786371
+        ],
+        "box": [
+          537,
+          222,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t49-text1.png",
+        "rasterBox": [
+          537,
+          222,
+          1005,
+          297
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.738805142826684,
+          0.0,
+          0.0,
+          2.741059303438063,
+          537.9205204907903,
+          359.3503359020401
+        ],
+        "box": [
+          540,
+          320,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t49-text2.png",
+        "rasterBox": [
+          540,
+          320,
+          1003,
+          363
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226460329467263,
+          0.0,
+          0.0,
+          2.228704843496528,
+          694.7989626287745,
+          497.5767326390978
+        ],
+        "box": [
+          696,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t49-text3.png",
+        "rasterBox": [
+          696,
+          468,
+          932,
+          501
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t49-textclean-bg.png",
+    "textCleanFG": "catalog/t49-textclean-fg.png",
+    "bg": "catalog/t49-bg.png",
+    "fg": "catalog/t49-fg.png",
+    "slot": {
+      "x": 66,
+      "y": 105,
+      "width": 405,
+      "height": 436
+    },
+    "removedLayers": [
+      "产品样例"
+    ]
+  },
+  {
+    "id": "t50",
+    "name": "横版商品 05",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t50-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-商品.psd",
+    "url": "catalog/t50-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.706726046947138,
+          0.0,
+          0.0,
+          2.7129698212992084,
+          75.30510220204451,
+          289.04799875067624
+        ],
+        "box": [
+          76,
+          222,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t50-text1.png",
+        "rasterBox": [
+          76,
+          222,
+          544,
+          297
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.7407424223696775,
+          0.0,
+          0.0,
+          2.7470646644235877,
+          71.73830072406054,
+          359.7498908556304
+        ],
+        "box": [
+          74,
+          321,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t50-text2.png",
+        "rasterBox": [
+          74,
+          321,
+          537,
+          364
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226872027013392,
+          0.0,
+          0.0,
+          2.228704843496528,
+          97.77322279198142,
+          497.5767326390978
+        ],
+        "box": [
+          99,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t50-text3.png",
+        "rasterBox": [
+          99,
+          468,
+          335,
+          501
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t50-textclean-bg.png",
+    "textCleanFG": "catalog/t50-textclean-fg.png",
+    "bg": "catalog/t50-bg.png",
+    "fg": "catalog/t50-fg.png",
+    "slot": {
+      "x": 597,
+      "y": 130,
+      "width": 397,
+      "height": 428
+    },
+    "removedLayers": [
+      "产品样例"
+    ]
+  },
+  {
+    "id": "t51",
+    "name": "横版达人 01",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t51-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-达人.psd",
+    "url": "catalog/t51-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.7048128117023955,
+          0.0,
+          0.0,
+          2.7070389950865117,
+          75.48480079367869,
+          258.8030052786371
+        ],
+        "box": [
+          76,
+          192,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t51-text1.png",
+        "rasterBox": [
+          76,
+          192,
+          544,
+          267
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.738805142826684,
+          0.0,
+          0.0,
+          2.741059303438063,
+          71.92052049078984,
+          329.3503359020401
+        ],
+        "box": [
+          74,
+          290,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t51-text2.png",
+        "rasterBox": [
+          74,
+          290,
+          537,
+          333
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226872027013392,
+          0.0,
+          0.0,
+          2.228704843496528,
+          97.77322279198165,
+          497.5767326390978
+        ],
+        "box": [
+          99,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t51-text3.png",
+        "rasterBox": [
+          99,
+          468,
+          335,
+          501
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "达人名称",
+        "original": "达人名称达人名称",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 29.33333,
+        "transform": [
+          0.84375,
+          0.0,
+          0.0,
+          0.8444444444444444,
+          750.1047260510672,
+          533.1081752327825
+        ],
+        "box": [
+          750,
+          511,
+          201,
+          25
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 35.199996,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": 0.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(252,99,76,0.99)"
+              ],
+              [
+                0.374267578125,
+                "rgba(247,70,72,0.99)"
+              ],
+              [
+                1.0,
+                "rgba(251,116,69,0.99)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t51-text4.png",
+        "rasterBox": [
+          750,
+          511,
+          951,
+          536
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t51-textclean-bg.png",
+    "textCleanFG": "catalog/t51-textclean-fg.png",
+    "bg": "catalog/t51-bg.png",
+    "fg": "catalog/t51-fg.png",
+    "slot": {
+      "x": 546,
+      "y": 49,
+      "width": 458,
+      "height": 559
+    },
+    "removedLayers": [
+      "达人"
+    ]
+  },
+  {
+    "id": "t52",
+    "name": "横版达人 02",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t52-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-达人.psd",
+    "url": "catalog/t52-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.7048128117023955,
+          0.0,
+          0.0,
+          2.7070389950865117,
+          75.48480079367891,
+          279.8030052786371
+        ],
+        "box": [
+          76,
+          213,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t52-text1.png",
+        "rasterBox": [
+          76,
+          213,
+          544,
+          288
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.738805142826684,
+          0.0,
+          0.0,
+          2.741059303438063,
+          71.92052049078984,
+          350.3503359020401
+        ],
+        "box": [
+          74,
+          311,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t52-text2.png",
+        "rasterBox": [
+          74,
+          311,
+          537,
+          354
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226872027013392,
+          0.0,
+          0.0,
+          2.228704843496528,
+          97.77322279198188,
+          497.5767326390978
+        ],
+        "box": [
+          99,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.68)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 9.0
+          }
+        ],
+        "url": "catalog/t52-text3.png",
+        "rasterBox": [
+          99,
+          468,
+          335,
+          501
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "达人名称",
+        "original": "达人名称达人名称",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 29.33333,
+        "transform": [
+          0.84375,
+          0.0,
+          0.0,
+          0.8444444444444444,
+          724.3547260510672,
+          529.1081752327825
+        ],
+        "box": [
+          724,
+          507,
+          201,
+          25
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 35.199996,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": 0.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(252,99,76,0.99)"
+              ],
+              [
+                0.374267578125,
+                "rgba(247,70,72,0.99)"
+              ],
+              [
+                1.0,
+                "rgba(251,116,69,0.99)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t52-text4.png",
+        "rasterBox": [
+          724,
+          507,
+          925,
+          532
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t52-textclean-bg.png",
+    "textCleanFG": "catalog/t52-textclean-fg.png",
+    "bg": "catalog/t52-bg.png",
+    "fg": "catalog/t52-fg.png",
+    "slot": {
+      "x": 582,
+      "y": 49,
+      "width": 458,
+      "height": 559
+    },
+    "removedLayers": [
+      "达人"
+    ]
+  },
+  {
+    "id": "t53",
+    "name": "横版达人 03",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t53-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-达人.psd",
+    "url": "catalog/t53-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.7048128117023955,
+          0.0,
+          0.0,
+          2.7070389950865117,
+          536.4848007936789,
+          288.8030052786371
+        ],
+        "box": [
+          537,
+          222,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t53-text1.png",
+        "rasterBox": [
+          537,
+          222,
+          1005,
+          297
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.738805142826684,
+          0.0,
+          0.0,
+          2.741059303438063,
+          537.9205204907898,
+          359.3503359020401
+        ],
+        "box": [
+          540,
+          320,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t53-text2.png",
+        "rasterBox": [
+          540,
+          320,
+          1003,
+          363
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226460329467263,
+          0.0,
+          0.0,
+          2.228704843496528,
+          694.798962628774,
+          497.5767326390978
+        ],
+        "box": [
+          696,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t53-text3.png",
+        "rasterBox": [
+          696,
+          468,
+          932,
+          501
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "达人名称",
+        "original": "达人名称达人名称",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 29.33333,
+        "transform": [
+          0.84375,
+          0.0,
+          0.0,
+          0.8444444444444443,
+          264.8547260510677,
+          527.6936229205694
+        ],
+        "box": [
+          265,
+          506,
+          201,
+          25
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 35.199996,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": 0.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(252,99,76,0.99)"
+              ],
+              [
+                0.374267578125,
+                "rgba(247,70,72,0.99)"
+              ],
+              [
+                1.0,
+                "rgba(251,116,69,0.99)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t53-text4.png",
+        "rasterBox": [
+          265,
+          506,
+          466,
+          531
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t53-textclean-bg.png",
+    "textCleanFG": "catalog/t53-textclean-fg.png",
+    "bg": "catalog/t53-bg.png",
+    "fg": "catalog/t53-fg.png",
+    "slot": {
+      "x": 57,
+      "y": 49,
+      "width": 486,
+      "height": 559
+    },
+    "removedLayers": [
+      "达人"
+    ]
+  },
+  {
+    "id": "t54",
+    "name": "横版达人 04",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t54-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-达人.psd",
+    "url": "catalog/t54-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.7048128117023955,
+          0.0,
+          0.0,
+          2.7070389950865117,
+          536.4848007936789,
+          288.8030052786371
+        ],
+        "box": [
+          537,
+          222,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t54-text1.png",
+        "rasterBox": [
+          537,
+          222,
+          1005,
+          297
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.738805142826684,
+          0.0,
+          0.0,
+          2.741059303438063,
+          537.9205204907903,
+          359.3503359020401
+        ],
+        "box": [
+          540,
+          320,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t54-text2.png",
+        "rasterBox": [
+          540,
+          320,
+          1003,
+          363
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "达人名称",
+        "original": "达人名称达人名称",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 29.33333,
+        "transform": [
+          0.84375,
+          0.0,
+          0.0,
+          0.8444444444444443,
+          131.3547260510668,
+          476.0998729205694
+        ],
+        "box": [
+          131,
+          454,
+          201,
+          25
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 35.199996,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": 0.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(252,99,76,0.99)"
+              ],
+              [
+                0.374267578125,
+                "rgba(247,70,72,0.99)"
+              ],
+              [
+                1.0,
+                "rgba(251,116,69,0.99)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t54-text3.png",
+        "rasterBox": [
+          131,
+          454,
+          332,
+          479
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226460329467263,
+          0.0,
+          0.0,
+          2.228704843496528,
+          694.7989626287745,
+          497.5767326390978
+        ],
+        "box": [
+          696,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t54-text4.png",
+        "rasterBox": [
+          696,
+          468,
+          932,
+          501
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t54-textclean-bg.png",
+    "textCleanFG": "catalog/t54-textclean-fg.png",
+    "bg": "catalog/t54-bg.png",
+    "fg": "catalog/t54-fg.png",
+    "slot": {
+      "x": 77,
+      "y": 53,
+      "width": 420,
+      "height": 555
+    },
+    "removedLayers": [
+      "达人"
+    ]
+  },
+  {
+    "id": "t55",
+    "name": "横版达人 05",
+    "category": "横版投放",
+    "width": 1080,
+    "height": 608,
+    "mode": "layered",
+    "thumb": "catalog/t55-thumb.png",
+    "source": "投放物料（横版）/投放物料（横版大图）-达人.psd",
+    "url": "catalog/t55-original.png",
+    "texts": [
+      {
+        "id": "text1",
+        "label": "活动标题",
+        "original": "双十一利益点",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 28.57526,
+        "transform": [
+          2.706726046947138,
+          0.0,
+          0.0,
+          2.7129698212992084,
+          75.30510220204451,
+          289.04799875067624
+        ],
+        "box": [
+          76,
+          222,
+          468,
+          75
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 34.290312,
+        "tracking": 0.4286289,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t55-text1.png",
+        "rasterBox": [
+          76,
+          222,
+          544,
+          297
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "活动信息",
+        "original": "活动利益点活动利益点",
+        "font": "SourceHanSansCN-Medium",
+        "fontSize": 16.64892,
+        "transform": [
+          2.7407424223696775,
+          0.0,
+          0.0,
+          2.7470646644235877,
+          71.73830072406054,
+          359.7498908556303
+        ],
+        "box": [
+          74,
+          321,
+          463,
+          43
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 19.978704,
+        "tracking": 0.416223,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "shadow",
+            "color": "rgba(214,125,126,0.5)",
+            "angle": 133.0,
+            "distance": 0.0,
+            "blur": 17.0
+          }
+        ],
+        "url": "catalog/t55-text2.png",
+        "rasterBox": [
+          74,
+          321,
+          537,
+          364
+        ]
+      },
+      {
+        "id": "text3",
+        "label": "按钮文案",
+        "original": "点击进入主会场",
+        "font": "SourceHanSansCN-Bold",
+        "fontSize": 15.28753,
+        "transform": [
+          2.226872027013392,
+          0.0,
+          0.0,
+          2.228704843496528,
+          97.77322279198142,
+          497.5767326390978
+        ],
+        "box": [
+          99,
+          468,
+          236,
+          33
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 18.345036,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t55-text3.png",
+        "rasterBox": [
+          99,
+          468,
+          335,
+          501
+        ]
+      },
+      {
+        "id": "text4",
+        "label": "达人名称",
+        "original": "达人名称达人名称",
+        "font": "SourceHanSansCN-Heavy",
+        "fontSize": 29.33333,
+        "transform": [
+          0.84375,
+          0.0,
+          0.0,
+          0.8444444444444443,
+          728.3547260510677,
+          538.745403616169
+        ],
+        "box": [
+          728,
+          517,
+          201,
+          25
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 35.199996,
+        "tracking": 0.0,
+        "fill": "rgba(255,255,255,1.0)",
+        "opacity": 1.0,
+        "effects": [
+          {
+            "type": "gradient",
+            "angle": 0.0,
+            "scale": 1.0,
+            "reverse": false,
+            "offset": [
+              0.0,
+              0.0
+            ],
+            "stops": [
+              [
+                0.0,
+                "rgba(252,99,76,0.99)"
+              ],
+              [
+                0.374267578125,
+                "rgba(247,70,72,0.99)"
+              ],
+              [
+                1.0,
+                "rgba(251,116,69,0.99)"
+              ]
+            ]
+          }
+        ],
+        "url": "catalog/t55-text4.png",
+        "rasterBox": [
+          728,
+          517,
+          929,
+          542
+        ]
+      }
+    ],
+    "textCleanBG": "catalog/t55-textclean-bg.png",
+    "textCleanFG": "catalog/t55-textclean-fg.png",
+    "bg": "catalog/t55-bg.png",
+    "fg": "catalog/t55-fg.png",
+    "slot": {
+      "x": 586,
+      "y": 71,
+      "width": 458,
+      "height": 537
+    },
+    "removedLayers": [
+      "达人"
+    ]
+  },
+  {
+    "id": "t56",
+    "name": "竖版海报 / 封面",
+    "category": "海报封面",
+    "width": 720,
+    "height": 1280,
+    "mode": "layered",
+    "thumb": "catalog/t56-thumb.png",
+    "source": "竖版图片背景/竖版图片背景.psd",
+    "url": "catalog/t56-original.png",
+    "bg": "catalog/t56-bg.png",
+    "fg": "catalog/t56-fg.png",
+    "slot": {
+      "x": 99,
+      "y": 384,
+      "width": 583,
+      "height": 896
+    },
+    "removedLayers": [
+      "人物"
+    ]
+  },
+  {
+    "id": "t57",
+    "name": "竖视频转横版 · 腾讯营销",
+    "category": "视频边框",
+    "mode": "inset",
+    "width": 1280,
+    "height": 720,
+    "url": "catalog/t57.jpg",
+    "thumb": "catalog/t57-thumb.png",
+    "source": "竖版视频转横横版视频边框/竖版视频转横横版视频边框.jpg",
+    "slot": {
+      "x": 144,
+      "y": 37,
+      "width": 361,
+      "height": 645
+    },
+    "radius": 27,
+    "texts": [
+      {
+        "id": "text1",
+        "label": "文案 1",
+        "original": "冬藏季·双11",
+        "font": "HONORSansCN-Heavy",
+        "fontSize": 50.0,
+        "transform": [
+          1.1057751088209125,
+          0.0,
+          0.0,
+          1.105775108820913,
+          567.5598101740984,
+          281.42494639107053
+        ],
+        "box": [
+          569,
+          233,
+          306,
+          54
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 60.0,
+        "tracking": 0.0,
+        "fill": "rgba(250,74,37,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t57-text1.png",
+        "rasterBox": [
+          569,
+          233,
+          875,
+          287
+        ]
+      },
+      {
+        "id": "text2",
+        "label": "文案 2",
+        "original": "藏暖过冬、甄选好物",
+        "font": "HONORSansCN-Regular",
+        "fontSize": 47.53476,
+        "transform": [
+          0.7994149287634446,
+          0.0,
+          0.0,
+          0.7994149287634449,
+          568.2049998276715,
+          348.16916981402534
+        ],
+        "box": [
+          569,
+          315,
+          338,
+          37
+        ],
+        "vertical": false,
+        "align": "left",
+        "leading": 57.041712,
+        "tracking": 0.0,
+        "fill": "rgba(82,82,82,1.0)",
+        "opacity": 1.0,
+        "effects": [],
+        "url": "catalog/t57-text2.png",
+        "rasterBox": [
+          569,
+          315,
+          907,
+          352
+        ]
+      }
+    ],
+    "textClean": "catalog/t57-textclean.png"
+  }
+]
